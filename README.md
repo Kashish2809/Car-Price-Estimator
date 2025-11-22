@@ -1,12 +1,12 @@
-**Car Price Estimator**
+_**Car Price Estimator**_
 
 A Machine Learning web application that predicts the selling price of used cars based on various features like age, showroom price, kilometers driven, fuel type, and more. Built with Flask, Python, and Scikit-Learn.
 
-**Overview**
+**Overview :**
 
 Buying a used car can be tricky, and estimating the fair market price is often the hardest part. This project aims to solve that problem by using a Random Forest Regressor model trained on historical car sales data. Users can input specific details about a car, and the application will output an estimated selling price.
 
-**Features**
+**Features :**
 
 **Accurate Predictions**: Uses a Random Forest algorithm for reliable price estimation.
 
@@ -16,7 +16,7 @@ Buying a used car can be tricky, and estimating the fair market price is often t
 
 **Categorical Data Handling:** Automatically processes inputs like Fuel Type and Transmission into machine-readable formats.
 
-**Tech Stack**
+**Tech Stack :**
 
 Frontend: HTML5, CSS3
 
@@ -26,7 +26,7 @@ Machine Learning: Scikit-Learn, Pandas, NumPy
 
 Serialization: Pickle
 
-**Dataset**
+**Dataset :**
 
 The model is trained on the Vehicle Dataset from Cardekho, available on Kaggle.
 
